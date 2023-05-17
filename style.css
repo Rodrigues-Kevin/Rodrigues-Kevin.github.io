@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@200;300;400&display=swap');
+
+body
+{
+    background-color: #C4C4C4;
+    font-family: Lexend;
+}
+
+button
+{
+    background-color: #0078E3;
+    font-size: 65%;
+    font-family: Lexend;
+    color: white;
+    padding: 20px 100px;
+    cursor: pointer;
+    border-color: black;
+    border-radius: 10px;
+    width: 35%
+}
+
+button:hover
+{
+    background: #1b9bff;
+    transition: .5s;
+}
